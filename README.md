@@ -61,9 +61,7 @@ Observação: Atualmente, o método receber_avaliacao só aceita notas entre 1 e
 
 
 1. Como Executar
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+https://github.com/felipe7197/Sistema-avaliando-Restaurantes
 
 2. Execute o projeto com:
 python app.py
